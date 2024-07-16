@@ -7,7 +7,6 @@ memnop is a command-line tool for memory patching in Windows x64 processes. Buil
 - Handles varying instruction lengths when applying NOPs
 - Provides options for elevated privileges to ensure access
 
-# Educational Purposes and Research Only Disclaimer:
 This software and its code examples are provided for educational purposes and research only.
 The author provides no guarantees or warranties concerning the usability or reliability of
 this software. By using this software, you agree that the author shall not be held responsible
