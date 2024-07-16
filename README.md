@@ -1,4 +1,4 @@
-# memnop is a command-line tool for memory patching in Windows x64 processes. Built on the Capstone disassembly framework, it allows for NOP-ing out specified memory regions.
+memnop is a command-line tool for memory patching in Windows x64 processes. Built on the Capstone disassembly framework, it allows for NOP-ing out specified memory regions.
 
 ## Key features:
 Utilizes Capstone for x86-64 instruction disassembly
