@@ -2,10 +2,9 @@ memnop is a command-line tool for memory patching in Windows x64 processes. Buil
 
 ## Key features:
 - Utilizes Capstone for x86-64 instruction disassembly
-- Selection of WinAPI or NTAPI for process interaction
+- Selection of either WinAPI or NTAPI usage for process interaction
 - Patches specified memory ranges in target processes with NOP instructions
-- Handles varying instruction lengths when applying NOPs
-- Provides options for elevated privileges to ensure access
+- Handles varying instruction lengths
 
 This software and its code examples are provided for educational purposes and research only.
 The author provides no guarantees or warranties concerning the usability or reliability of
