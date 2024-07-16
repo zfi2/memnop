@@ -7,7 +7,7 @@ Patches specified memory ranges in target processes with NOP instructions
 Handles varying instruction lengths when applying NOPs
 Provides options for elevated privileges to ensure access
 
-Note: This tool is for educational and research purposes. Users should ensure they have necessary permissions before modifying memory in any process.
+Note: This tool is for educational and research purposes.
 
 ## License
 
